@@ -1,0 +1,11 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+# input method config
+INPUT_METHOD=fcitx
+GTK_IM_MODULE=fcitx
+QT_IM_MODULE=fcitx
+XMODIFIERS="@im=fcitx"
+SDL_IM_MODULE=fcitx
